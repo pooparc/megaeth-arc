@@ -11,10 +11,10 @@ from telebot import types  # для кнопок
 # ================================
 
 # 1) ТВОЙ TELEGRAM BOT TOKEN от @BotFather
-TELEGRAM_BOT_TOKEN = "8320353908:AAEQjUBz9WeJA8vhqb3_0q59NVSq-1QYQ4M"
+TELEGRAM_BOT_TOKEN = ""
 
 # 2) ТВОЙ ETHERSCAN API KEY (V2)
-ETHERSCAN_API_KEY = "32UHPSNU9Z73CBRUUSFWIGBNJA4BEQBK8Y"  # замени, если у тебя другой
+ETHERSCAN_API_KEY = ""  # замени, если у тебя другой
 
 # 3) ДЕФОЛТНЫЙ ПОРОГ, ЕСЛИ ЮЗЕР НИЧЕГО НЕ ЗАДАЛ
 DEFAULT_THRESHOLD = 1000.0  # USDC
